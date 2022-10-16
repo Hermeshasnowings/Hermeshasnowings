@@ -1,6 +1,6 @@
  Hi there 👋
 
-- 🔭 I’m currently working on Online Registration Form for Team Treehouse
+- 🔭 I’m currently working on Online Registration Form
 - 🌱 I’m currently learning Javescript, HTML and CSS
 - 👯 I’m looking to collaborate on open source web apps
 - 🤔 I’m looking for help with Javascript
