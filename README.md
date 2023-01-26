@@ -10,6 +10,6 @@
 
 https://hellsingarms.co.uk/
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Hermeshasnowings/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hermeshasnowings&theme=dark)](https://git.io/streak-stats)
