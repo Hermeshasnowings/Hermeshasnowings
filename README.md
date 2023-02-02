@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dbzapmink/image/upload/v1675357266/YelpCamp/banner_rb0l7m.png">
+<img src="[https://res.cloudinary.com/dbzapmink/image/upload/v1675357266/YelpCamp/banner_rb0l7m.png](https://res.cloudinary.com/dbzapmink/image/upload/v1675357651/YelpCamp/banner_1_z1ribb.png)">
 
 - 🔭 I’m currently working on an interactive photo gallery
 - 🌱 I’m currently learning CSS grid
