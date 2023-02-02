@@ -1,7 +1,7 @@
  Hi there 👋
 
-- 🔭 I’m currently working on Web style guide
-- 🌱 I’m currently learning SASS
+- 🔭 I’m currently working on an interactive photo gallery
+- 🌱 I’m currently learning CSS grid
 - 👯 I’m looking to collaborate on open source web apps
 - 🤔 I’m looking for help with Javascript
 - 💬 Ask me about 
