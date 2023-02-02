@@ -1,4 +1,4 @@
- Hi there 👋
+<img src="https://res.cloudinary.com/dbzapmink/image/upload/v1675357266/YelpCamp/banner_rb0l7m.png">
 
 - 🔭 I’m currently working on an interactive photo gallery
 - 🌱 I’m currently learning CSS grid
