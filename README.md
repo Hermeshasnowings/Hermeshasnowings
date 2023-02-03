@@ -3,7 +3,7 @@
 <h1> Hello there! </h1>
 
 - 🔭 I’m currently working on an interactive photo gallery
-- 🌱 I’m currently learning CSS grid
+- 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on open source web apps
 - 🤔 I’m looking for help with Javascript
 - 💬 Ask me about 
